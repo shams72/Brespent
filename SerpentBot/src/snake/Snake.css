@@ -1,0 +1,12 @@
+.play-area {
+  position: fixed;
+  top: 13%;
+  left: 10%;
+  width: 80vw;
+  height: 80vh;
+  background-color: #222;
+  overflow: hidden;
+  border: 3px dashed #b2df10;  /* dodger blue */
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgb(255, 145, 0);
+}
